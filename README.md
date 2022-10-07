@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrabon-dev" alt="shrabon-dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mdshrabon04" target="blank"><img src="https://img.shields.io/twitter/follow/@mdshrabon04?logo=twitter&style=for-the-badge" alt="@mdshrabon04" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mdshrabon04" target="blank"><img src="https://img.shields.io/twitter/follow/@mdshrabon04?logo=twitter&style=for-the-badge" alt="@mdshrabon04" /></a> </p>
 
 - 🔭 I’m currently working on [Own Portfolio](https://github.com/shrabon-dev/sdev)
 
