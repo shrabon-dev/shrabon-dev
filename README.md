@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/@shrabon-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shrabon-dev" height="30" width="40" /></a>
 <a href="https://twitter.com/@mdshrabon04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdshrabon04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-shrabon-hossain-b4078b1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shrabon-hossain-b4078b1b7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-shrabon-hossain-b4078b1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shrabon-hossain-b4078b1b7" height="30" width="40" /></a>
 <a href="https://fb.com/sulaiman.rahman.925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sulaiman.rahman.925" height="30" width="40" /></a>
 </p>
 
