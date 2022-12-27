@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrabon-dev&show_icons=true&locale=en" alt="shrabon-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrabon-dev&" alt="shrabon-dev" /></p>
-<a href="https://app.daily.dev/ShrabonHossain"><img src="https://api.daily.dev/devcards/ac8e5e54c7c2466d842efb4a1df438d0.png?r=c9j" width="400" alt="Md. Shrabon Hossain's Dev Card"/></a>
+<a href="https://app.daily.dev/ShrabonHossain"><img src="https://api.daily.dev/devcards/ac8e5e54c7c2466d842efb4a1df438d0.png?r=c9j" width="200" alt="Md. Shrabon Hossain's Dev Card"/></a>
